@@ -1,0 +1,10 @@
+.pricing__section {
+  padding: 250px 0 250px;
+  background: #fafafa;
+}
+  
+.pricing__container-card:hover {
+  transform: scale(1.06);
+  transition: all 0.3s ease-out;
+  color: #1c2237;
+}
